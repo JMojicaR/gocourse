@@ -1,0 +1,3 @@
+go mod init.- mod init. is a command that initializes a new Go module
+go run main.go - run the main.go file
+go build main.go - build the main.go file
